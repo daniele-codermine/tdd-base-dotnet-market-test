@@ -1,0 +1,1620 @@
+[
+  {
+    "id": "c8022932-61aa-4909-a129-dea3c8d71442",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "322ee11f-8c9a-439d-a5f2-e5c2520851f6",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "833ef53d-47c4-4739-8fd6-6387df5b9e66",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "c0e09ff0-5a04-486a-8cc7-76c90948fd95",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 5,
+    "totalDiscount": 0,
+    "finalPrice": 5
+  },
+  {
+    "id": "c15a1689-216c-472d-bb57-7af901b71330",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "ede3ca58-f3f1-46ce-93bf-7ec32b07a6bf",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 5,
+    "totalDiscount": 0,
+    "finalPrice": 5
+  },
+  {
+    "id": "3a578c39-7bfb-4208-9115-c4ed90d7c55d",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "8a11f4dd-e178-438f-abd8-8c14818b7c27",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 5,
+    "totalDiscount": 0,
+    "finalPrice": 5
+  },
+  {
+    "id": "07957bda-573d-4d2b-9a26-205c36f818b0",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "75c3c639-b811-49a2-a179-5b047a6fbbdc",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 5,
+    "totalDiscount": 0,
+    "finalPrice": 5
+  },
+  {
+    "id": "b16fa0b8-7bb3-45cc-a4d1-e0c2122fef13",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 5,
+    "totalDiscount": 0,
+    "finalPrice": 5
+  },
+  {
+    "id": "15e555f4-9e25-46a0-9754-ac93c73489a9",
+    "products": [
+      {
+        "soldPrice": 50,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 50,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 100
+      }
+    ],
+    "totalPrice": 100,
+    "totalDiscount": 0,
+    "finalPrice": 100
+  },
+  {
+    "id": "a9733ec9-1d3a-4054-b881-038b96e47d6f",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "fae4414d-6c82-4f62-a944-a32e0f5d82cc",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "2af593c1-6f7d-4861-a899-e5b9e3c86d20",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "04009f2f-8537-4f45-a69d-c9ed5860affa",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "1b2d7386-30ec-4ad8-b959-85d88a3bbefd",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 5,
+    "totalDiscount": 0,
+    "finalPrice": 5
+  },
+  {
+    "id": "b0871eed-b6d8-477e-8444-af15bf520e7c",
+    "products": [
+      {
+        "soldPrice": 50,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 50,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 100
+      }
+    ],
+    "totalPrice": 100,
+    "totalDiscount": 0,
+    "finalPrice": 100
+  },
+  {
+    "id": "08c581e3-7cb2-436e-ba89-77f63d5bf71f",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "a5652e32-5b8c-4eee-950c-332fce88c2df",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "58ecb694-2795-4b40-b50b-0027f0ab0896",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "49f405c1-ef30-410d-97f3-2ab8a6271f7a",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "e9b3c1a2-9093-47fd-80db-df3ac1f4d27b",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "011ea7f5-caf0-4249-8aed-6d3a7912fd86",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 7,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 17,
+    "totalDiscount": 0,
+    "finalPrice": 17
+  },
+  {
+    "id": "7160e210-1103-4fd4-a999-a4ca50dbef5f",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 5,
+    "totalDiscount": 0,
+    "finalPrice": 5
+  },
+  {
+    "id": "ef3c7b89-efb1-4440-b743-a2a982365a9b",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "fa0b3fc2-b22e-41d2-88f9-cfadda676988",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "9affdab0-1946-4b22-9c1f-16ff2ceeaf26",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "33c2095b-2e87-40b7-a5be-11751ef89f26",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 5,
+    "totalDiscount": 0,
+    "finalPrice": 5
+  },
+  {
+    "id": "b773ee40-0059-4dd0-9747-c687271ef123",
+    "products": [
+      {
+        "soldPrice": 50,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 50,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 100
+      }
+    ],
+    "totalPrice": 100,
+    "totalDiscount": 0,
+    "finalPrice": 100
+  },
+  {
+    "id": "a2a49161-b88b-4756-b7fb-5cb688cf099e",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "491e0418-f556-44e0-8ce5-919f093a67da",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 7,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 17,
+    "totalDiscount": 0,
+    "finalPrice": 17
+  },
+  {
+    "id": "0913fada-622d-4c39-b9c4-27a1c3c9280a",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "04e0ea65-af10-4000-b77a-217007440901",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 7,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 17,
+    "totalDiscount": 0,
+    "finalPrice": 17
+  },
+  {
+    "id": "88313709-6283-4212-84fd-dccbaa0ba5e2",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 1,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 18.3,
+    "totalDiscount": 0,
+    "finalPrice": 18.3
+  },
+  {
+    "id": "2cc13443-dd3c-415d-a5dd-47f522278296",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 1,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 18.3,
+    "totalDiscount": 0,
+    "finalPrice": 18.3
+  },
+  {
+    "id": "dde10d74-9e22-4e27-9733-1f2a9ab3b80b",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 1,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 18.3,
+    "totalDiscount": 0,
+    "finalPrice": 18.3
+  },
+  {
+    "id": "ee55b481-8642-4130-b2b3-6e23c156c973",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 1,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 18.3,
+    "totalDiscount": 0,
+    "finalPrice": 18.3
+  },
+  {
+    "id": "990aa734-ee0e-4a2c-98c0-a3f7acd1d04f",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 1,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 18.3,
+    "totalDiscount": 0,
+    "finalPrice": 18.3
+  },
+  {
+    "id": "fba8200c-133e-46f1-8f55-e23b9a74a873",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 1,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 18.3,
+    "totalDiscount": 0,
+    "finalPrice": 18.3
+  },
+  {
+    "id": "c2d0187c-bbbc-43fc-a078-a2154df9d12a",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 2,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 3,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 2,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 31.3,
+    "totalDiscount": 0,
+    "finalPrice": 31.3
+  },
+  {
+    "id": "e49e2892-0302-4beb-9a76-8a28bb5198cc",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 2,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 3,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 2,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 31.3,
+    "totalDiscount": 0,
+    "finalPrice": 31.3
+  },
+  {
+    "id": "99bdf003-3e17-462e-90b7-6e021f5d78e4",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 2,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 3,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 2,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 31.3,
+    "totalDiscount": 0,
+    "finalPrice": 31.3
+  },
+  {
+    "id": "c539baed-59b9-463a-a623-c718235c8201",
+    "products": [
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [],
+    "totalPrice": 6.5,
+    "totalDiscount": 0,
+    "finalPrice": 6.5
+  },
+  {
+    "id": "41d0535c-edd1-41a7-bbea-7fc24205dbfb",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 1,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 18.3,
+    "totalDiscount": 0,
+    "finalPrice": 18.3
+  },
+  {
+    "id": "4b22fc54-365d-4ab1-9516-a0e16fba3c4b",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 2,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 3,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      },
+      {
+        "soldPrice": 5,
+        "quantity": 2,
+        "id": 3,
+        "name": "Arancia",
+        "price": 5
+      },
+      {
+        "soldPrice": 4.3,
+        "quantity": 1,
+        "id": 4,
+        "name": "Pera",
+        "price": 4.3
+      },
+      {
+        "soldPrice": 1.8,
+        "quantity": 1,
+        "id": 5,
+        "name": "Uva",
+        "price": 1.8
+      },
+      {
+        "soldPrice": 2.2,
+        "quantity": 1,
+        "id": 6,
+        "name": "Kiwi",
+        "price": 2.2
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 31.3,
+    "totalDiscount": 0,
+    "finalPrice": 31.3
+  },
+  {
+    "id": "d1ef15df-5028-48bb-90fa-153f7d7cf453",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 5,
+    "totalDiscount": 0,
+    "finalPrice": 5
+  },
+  {
+    "id": "40762f91-fa6b-4e38-991e-0f2b12189048",
+    "products": [
+      {
+        "soldPrice": 50,
+        "quantity": 1,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 50,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 100
+      }
+    ],
+    "totalPrice": 100,
+    "totalDiscount": 0,
+    "finalPrice": 100
+  },
+  {
+    "id": "5e158f96-7250-4f0e-92b4-b104d599a27b",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 3,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 9,
+    "totalDiscount": 0,
+    "finalPrice": 9
+  },
+  {
+    "id": "03229054-66a9-453e-9fab-dfbc3e2a0472",
+    "products": [
+      {
+        "soldPrice": 2,
+        "quantity": 7,
+        "id": 1,
+        "name": "Banana",
+        "price": 2
+      },
+      {
+        "soldPrice": 3,
+        "quantity": 1,
+        "id": 2,
+        "name": "Mela",
+        "price": 3
+      }
+    ],
+    "discount": [
+      {
+        "Threshold": 0
+      }
+    ],
+    "totalPrice": 17,
+    "totalDiscount": 0,
+    "finalPrice": 17
+  }
+]

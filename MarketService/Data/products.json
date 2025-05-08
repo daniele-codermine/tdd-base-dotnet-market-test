@@ -13,5 +13,20 @@
     "id": 3,
     "name": "Arancia",
     "price": 5
+  },
+  {
+    "id": 4,
+    "name": "Pera",
+    "price": 4.3
+  },
+  {
+    "id": 5,
+    "name": "Uva",
+    "price": 1.8
+  },
+  {
+    "id": 6,
+    "name": "Kiwi",
+    "price": 2.2
   }
 ]
