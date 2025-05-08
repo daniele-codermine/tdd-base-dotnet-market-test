@@ -28,4 +28,5 @@ public class MarketServiceTests
 		product!.Price.Should().Be(2m);
 	}
 
+
 }

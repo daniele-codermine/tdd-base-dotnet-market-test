@@ -13,5 +13,10 @@
     "id": 3,
     "name": "Arancia",
     "price": 5
+  },
+  {
+    "id": 4,
+    "name": "Mango",
+    "price": 5.5
   }
 ]
