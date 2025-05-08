@@ -1,5 +1,7 @@
 namespace MarketServices;
 
+// Nota: per semplicità solo test minimi
+
 public class MarketService
 {
 
@@ -111,33 +113,9 @@ public class MarketService
 		return total;
 	}
 
+	
+
 	public decimal ApplyBundleDiscount()
-	{
-		// Per l'esempio, consideriamo un bundle di 3 prodotti specifici (Banana, Mela, Arancia)
-		// In una situazione reale, si dovrebbe fare una gestione più complessa
-		var bundleProductIds = new HashSet<int> { 1, 2, 3 }; // Banana, Mela, Arancia
-		const decimal bundlePrice = 8m; // Prezzo del bundle
-
-		// Verifica se tutti i prodotti del bundle sono presenti nel carrello
-		var cartProductIds = _cart.Select(p => p.Id).ToList();
-		if (bundleProductIds.All(id => cartProductIds.Contains(id)))
-		{
-			// Rimuove i prodotti del bundle dal carrello per evitare doppio conteggio
-			foreach (var id in bundleProductIds)
-			{
-				var productToRemove = _cart.First(p => p.Id == id);
-				_cart.Remove(productToRemove); // Non è bello, ma per ora va bene ...
-			}
-
-			// Calcola il totale con il prezzo bundle
-			return bundlePrice + _cart.Sum(p => p.Price);
-		}
-
-		// Nessun bundle applicabile, restituisce il totale normale
-		return _cart.Sum(p => p.Price);
-	}
-
-		public decimal ApplyBundleDiscount()
 	{
 		// Definizione del bundle "Macedonia"
 		var bundleProductIds = new HashSet<int> { 1, 2, 3 }; // Banana, Mela, Arancia
