@@ -1,5 +1,6 @@
 ﻿using MarketServices;
 using FluentAssertions;
+using MS = MarketServices.MarketService;
 
 namespace MarketServiceTests;
 
@@ -7,12 +8,12 @@ namespace MarketServiceTests;
 public class MarketServiceTests
 {
 	//SUT
-	private readonly MarketService _marketService;
+	private readonly MS _marketService;
 
 	public MarketServiceTests()
 	{
 		//ARRANGE
-		_marketService = new MarketService();
+		_marketService = new MS();
 	}
 
 	[TestMethod]
