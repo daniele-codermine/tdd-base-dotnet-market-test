@@ -2,16 +2,31 @@
   {
     "id": 1,
     "name": "Banana",
-    "price": 2
+    "price": 2,
+    "vatRate": 0.1
   },
   {
     "id": 2,
     "name": "Mela",
-    "price": 3
+    "price": 3,
+    "vatRate": 0.1
   },
   {
     "id": 3,
     "name": "Arancia",
-    "price": 5
+    "price": 5,
+    "vatRate": 0.2
+  },
+  {
+    "id": 4,
+    "name": "Pera",
+    "price": 3.99,
+    "vatRate": 0.04
+  },
+  {
+    "id": 5,
+    "name": "Ananas",
+    "price": 8.50,
+    "vatRate": 0.00
   }
 ]
